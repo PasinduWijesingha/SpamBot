@@ -6,3 +6,5 @@ HOW TO USE
  2. Open whatsapp web and select victem. 
  3. Run the proram and put the cursor place where whats app message writing place.
  4. To exit the program, You have to close your IDLE.
+
+THANKYOU!
